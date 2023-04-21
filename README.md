@@ -10,9 +10,9 @@ This is a mini project for SC1015. Our dataset is from Kaggle, https://www.kaggl
 5. Conclusion
 
 ## Contributors (add contributions)
-Zann Ang: 
-Valen Tang: 
-Chloe Lee: 
+Chloe Lee:
+Valen Tang:
+Zann Ang:
 
 ## Problem Definition
 1. What contributes to food organic waste levels?
