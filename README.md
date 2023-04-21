@@ -20,7 +20,7 @@ Chloe Lee:
 
 ## Models
 1. Logistic Regression
-2. Random Forest Classifier
+2. Random Forest Regressor
 
 ## Conclusion
 1. GDP is the most significant factor contributing to high food organic waste levels. 
