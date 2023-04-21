@@ -9,7 +9,7 @@ This is a mini project for SC1015. Our dataset is from Kaggle, https://www.kaggl
 4. Data analysis (univariate, bivariate, multivariate)
 5. Conclusion
 
-## Contributors (add contributions)
+## Contributors 
 Chloe Lee: Data extraction, Data analysis (univariate), Conclusion, Slides, Script, Video editing, Video recording, Researching for new analysis and prediction methods
 Valen Tang: Data cleaning, Data analysis (bivariate), Conclusion, Slides, Script, Video editing, Video recording, Researching for new analysis and prediction methods
 Zann Ang: Tackling imbalanced data, Data analysis (multivariate), Conclusion, Slides, Script, Video editing, Video recording, Researching for new analysis and prediction methods
