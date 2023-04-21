@@ -1,6 +1,7 @@
 # SC1015-Mini-Project
-Contributors to Food Organic Waste Repository
-AboutThis is a mini project for SC1015. Our dataset is from Kaggle, (insert link). We will be going through the following: 
+# Contributors to Food Organic Waste Repository
+About
+This is a mini project for SC1015. Our dataset is from Kaggle, (insert link). We will be going through the following: 
 1. Data extraction
 2. Data visualisation
 3. Data splitting
