@@ -24,11 +24,11 @@ Chloe Lee:
 
 ## Conclusion
 1. GDP is the most significant factor contributing to high food organic waste levels. 
-2. 2. GDP has an inverse relationship with food organic wastage.
+2. GDP has an inverse relationship with food organic wastage.
 
 ## Lessons learnt
-1. Using stack bar charts to check balance/imbalance of data
-2. Random Forest Regressor to conduct multivariate analysis across multiple variables simultaneously
+1. Using stacked bar charts to check the significance of variables when data is imbalanced
+2. Random Forest Regressor to conduct multivariate analysis across multiple variables (numerical and categorical) simultaneously
 3. Using F and probability (p) values to determine the significance of different factors in affecting a certain outcome (food organic waste)
 4. Predicting NA values using linear regression
 5. Collaboration using GitHub and Jupyter Notebook
@@ -43,7 +43,7 @@ https://towardsdatascience.com/python-pandas-tricks-3-best-methods-4a909843f5bc
 To convert value of array into 1 and 0: 
 https://www.w3schools.com/python/numpy/numpy_array_filter.asp 
  
-Splitting the data into different range (checking if data is balanced or imbalance): 
+Splitting the data into different range (checking if variable is signifcant): 
 https://stackoverflow.com/questions/45751390/pandas-how-to-use-pd-cut 
  
 Plotting stacked bar chart: 
