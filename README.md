@@ -18,7 +18,9 @@ Zann Ang: Tackling imbalanced data, Data analysis (multivariate), Conclusion, Sl
 
 ## Files 
 1. edited_spreadsheet.csv - dataset 
+
 2. SC1015 Slides.pdf - presentation slides for our project
+
 3. SC1015 Project.ipynb
 - Cleaning the data + Univariate analysis
 - Bi-variate analysis 
@@ -31,7 +33,9 @@ Zann Ang: Tackling imbalanced data, Data analysis (multivariate), Conclusion, Sl
   - Recycling percentage
   - Presence of national law
   - Presence of enforcement
+
 2. Significance of identified factors contributing to high food organic waste levels
+
 3. The most significant factor contributing to high food organic waste levels 
 
 ## Models 
