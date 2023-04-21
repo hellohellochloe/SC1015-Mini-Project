@@ -9,30 +9,31 @@ This is a mini project for SC1015. Our dataset is from Kaggle, (insert link). We
 4. Data analysis
 5. Conclusion
 
-Contributors (add contributions)
+## Contributors (add contributions)
 Zann Ang: 
 Valen Tang: 
 Chloe Lee: 
 
-Problem Definition
+## Problem Definition
 1. What contributes to food organic waste levels?
 2. Which is the most significant factor that does so?
 
-Models
+## Models
 1. Logistic Regression
 2. Random Forest Classifier
 
-Conclusion
-1. GDP is the most significant factor contributing to high food organic waste levels. 2. GDP has an inverse relationship with food organic wastage.
+## Conclusion
+1. GDP is the most significant factor contributing to high food organic waste levels. 
+2. 2. GDP has an inverse relationship with food organic wastage.
 
-Lessons learnt
+## Lessons learnt
 1. Using stack bar charts to check balance/imbalance of data
 2. Random Forest Regressor to conduct multivariate analysis across multiple variables simultaneously
 3. Using F and probability (p) values to determine the significance of different factors in affecting a certain outcome (food organic waste)
 4. Predicting NA values using linear regression
 5. Collaboration using GitHub and Jupyter Notebook
 
-References
+## References
 Predicting NA values:  
 https://plainenglish.io/blog/predict-missing-dataframe-values-with-an-ml-algorithm-717cd872f1a8 
  
