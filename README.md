@@ -2,7 +2,7 @@
 # Contributors to Food Organic Waste Repository
 
 ## About
-This is a mini project for SC1015. Our dataset is from Kaggle, (insert link). We will be going through the following: 
+This is a mini project for SC1015. Our dataset is from Kaggle, https://www.kaggle.com/datasets/zvr842/global-pollution-by-counties. We will be going through the following: 
 1. Data extraction
 2. Data visualisation
 3. Data splitting
