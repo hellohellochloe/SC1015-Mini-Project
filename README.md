@@ -16,6 +16,11 @@ Valen Tang: Data cleaning, Data analysis (bivariate), Conclusion, Slides, Script
 
 Zann Ang: Tackling imbalanced data, Data analysis (multivariate), Conclusion, Slides, Script, Video editing, Video recording, Researching for new analysis and prediction methods
 
+## Files 
+1. edited_spreadsheet.csv - dataset 
+2. SC1015 Slides.pdf - presentation slides for our project
+3. SC1015 Project.ipynb
+
 ## Problem Definition   
 1. Contributing factors to high food organic waste levels
   - Gdp
