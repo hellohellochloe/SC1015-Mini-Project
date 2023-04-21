@@ -20,6 +20,10 @@ Zann Ang: Tackling imbalanced data, Data analysis (multivariate), Conclusion, Sl
 1. edited_spreadsheet.csv - dataset 
 2. SC1015 Slides.pdf - presentation slides for our project
 3. SC1015 Project.ipynb
+- Cleaning the data + Univariate analysis
+- Bi-variate analysis 
+- Multivariate analysis
+- Conclusion and Insights
 
 ## Problem Definition   
 1. Contributing factors to high food organic waste levels
