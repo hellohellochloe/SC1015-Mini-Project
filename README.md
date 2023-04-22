@@ -28,6 +28,8 @@ Zann Ang: Tackling imbalanced data, Data analysis (multivariate), Conclusion, Sl
 - Conclusion and Insights
 
 ## Problem Definition   
+As global warming and environmental destruction on the rise, it is crucial to decrease food organic wastage. Food organic waste is usually neglected and not given as much focus as non-organic waste, such as plastic and paper waste. Identifying what causes food organic waste is becoming increasingly important.
+
 1. Contributing factors to high food organic waste levels
   - Gdp
   - Recycling percentage
